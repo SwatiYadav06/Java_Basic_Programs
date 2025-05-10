@@ -8,7 +8,7 @@ public class Fibbonacci_Series {
             for(int i=0;i<=10;i++)
             {
                 next=a+b;
-                System.out.println(next + " ");
+                System.out.print(next + " ");
                 a=b;
                 b=next;
             }
