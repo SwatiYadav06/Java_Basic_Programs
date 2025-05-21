@@ -1,4 +1,4 @@
-package EX_06_Ternary_Operators;
+package Ex_06_Ternary_Operators;
 
 public class Lab068_Real_Age_Classification {
     public static void main(String[] args) {
