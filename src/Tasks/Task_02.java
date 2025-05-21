@@ -1,4 +1,4 @@
-package EX_06_Ternary_Operators;
+package Tasks;
 
 public class Task_02 {
     public static void main(String[] args) {
