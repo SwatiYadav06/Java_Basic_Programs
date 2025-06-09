@@ -10,11 +10,11 @@ public class Armstrong_Number {
         int original = num;
         int sum = 0;
 
-        int digits = String.valueOf(num).length();
+        int count = String.valueOf(num).length();
 
         while (num > 0) {
             int digit = num % 10;
-            sum += Math.pow(digit, digits);
+            sum += Math.pow(digit, count);
             num /= 10;
         }
 
