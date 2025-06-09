@@ -1,4 +1,4 @@
-package ex_04_Operators;
+package Ex_04_Operators;
 
 public class Lab042_Interview_Concat_Plus {
     public static void main(String[] args) {
