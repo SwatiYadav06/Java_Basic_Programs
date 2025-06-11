@@ -1,6 +1,6 @@
 package Ex_19_OOPs_Part2.accessModifer.Criminal;
 
-import ex_19_OOPs_Part2.accessModifer.police.Cop;
+import Ex_19_OOPs_Part2.accessModifer.police.Cop;
 
 public class Thief {
     public static void main(String[] args) {

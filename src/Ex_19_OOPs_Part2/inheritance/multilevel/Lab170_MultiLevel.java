@@ -1,6 +1,6 @@
 package Ex_19_OOPs_Part2.inheritance.multilevel;
 
-import ex_19_OOPs_Part2.inheritance.multipleheritance.Father2;
+import Ex_19_OOPs_Part2.inheritance.multipleheritance.Father2;
 
 public class Lab170_MultiLevel {
     public static void main(String[] args) {
