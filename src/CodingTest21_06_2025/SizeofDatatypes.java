@@ -1,4 +1,4 @@
-package CodingTest12_06_2025;
+package CodingTest21_06_2025;
 
 public class SizeofDatatypes {
     public static void main(String[] args) {

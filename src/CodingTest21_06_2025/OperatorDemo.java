@@ -1,4 +1,4 @@
-package CodingTest12_06_2025;
+package CodingTest21_06_2025;
 
 public class OperatorDemo {
     public static void main(String[] args) {
